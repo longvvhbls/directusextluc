@@ -1,0 +1,10 @@
+# Directus local dev
+/database/
+/uploads/
+# Extensions
+/extensions/**/node_modules/
+/extensions/**/dist/
+/extensions/**/.cache/
+.DS_Store
+
+local/*
